@@ -1,0 +1,6 @@
+
+> convert-iq@1.0.0 dev:server
+> node server/index.js
+
+◇ injected env (0) from .env
+ConvertIQ API running on http://localhost:5000
